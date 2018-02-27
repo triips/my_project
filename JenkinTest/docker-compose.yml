@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  jenkin.api2:
+    image: jenkin.api2
+    build:
+      context: ./Jenkin.API2
+      dockerfile: Dockerfile

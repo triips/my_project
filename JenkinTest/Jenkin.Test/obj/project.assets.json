@@ -5734,6 +5734,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "D:\\Project\\UFAB\\TestingJenkins\\my_project\\JenkinTest\\Jenkin.Test\\Jenkin.Test.csproj",
       "projectName": "Jenkin.Test",
@@ -5775,23 +5778,22 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "xunit.runner.visualstudio": {
+            "target": "Package",
+            "version": "2.3.1"
+          },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "2.0",
             "autoReferenced": true
-          },
-          "Microsoft.NET.Test.Sdk": {
-            "target": "Package",
-            "version": "15.6.0"
           },
           "xunit": {
             "target": "Package",
             "version": "2.3.1"
           },
-          "xunit.runner.visualstudio": {
+          "Microsoft.NET.Test.Sdk": {
             "target": "Package",
-            "version": "2.3.1"
+            "version": "15.6.0"
           }
         },
         "imports": [

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinService", "JenkinTest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenkin.Test", "Jenkin.Test\Jenkin.Test.csproj", "{046F22DD-9AB0-4A9E-82EA-DE645D542DBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenkin.API2", "Jenkin.API2\Jenkin.API2.csproj", "{C9A0443B-073B-4A89-994C-98DAA703383F}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{1D71E3B0-131D-49A5-9645-27590C0A7171}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{046F22DD-9AB0-4A9E-82EA-DE645D542DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{046F22DD-9AB0-4A9E-82EA-DE645D542DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{046F22DD-9AB0-4A9E-82EA-DE645D542DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A0443B-073B-4A89-994C-98DAA703383F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A0443B-073B-4A89-994C-98DAA703383F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A0443B-073B-4A89-994C-98DAA703383F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A0443B-073B-4A89-994C-98DAA703383F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D71E3B0-131D-49A5-9645-27590C0A7171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D71E3B0-131D-49A5-9645-27590C0A7171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D71E3B0-131D-49A5-9645-27590C0A7171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D71E3B0-131D-49A5-9645-27590C0A7171}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

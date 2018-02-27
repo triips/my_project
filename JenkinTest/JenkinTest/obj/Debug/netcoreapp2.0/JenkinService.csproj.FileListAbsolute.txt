@@ -1,9 +1,9 @@
 D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\JenkinTest\bin\Debug\netcoreapp2.0\JenkinService.deps.json
 D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\JenkinTest\bin\Debug\netcoreapp2.0\JenkinService.dll
 D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\JenkinTest\bin\Debug\netcoreapp2.0\JenkinService.pdb
-D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\JenkinTest\obj\Debug\netcoreapp2.0\JenkinService.csprojResolveAssemblyReference.cache
 D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\JenkinTest\obj\Debug\netcoreapp2.0\JenkinService.csproj.CoreCompileInputs.cache
 D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\JenkinTest\obj\Debug\netcoreapp2.0\JenkinService.AssemblyInfoInputs.cache
 D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\JenkinTest\obj\Debug\netcoreapp2.0\JenkinService.AssemblyInfo.cs
 D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\JenkinTest\obj\Debug\netcoreapp2.0\JenkinService.dll
 D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\JenkinTest\obj\Debug\netcoreapp2.0\JenkinService.pdb
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\JenkinTest\obj\Debug\netcoreapp2.0\JenkinService.csprojResolveAssemblyReference.cache

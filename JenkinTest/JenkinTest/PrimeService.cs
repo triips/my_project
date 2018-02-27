@@ -4,16 +4,14 @@ namespace JenkinService
 {
     public class PrimeService
     {
-        public bool IsPrime(int candidate)
+        public bool IsPrime(int number)
         {
-            if (candidate == 1)
-            {
-                return false;
-            }
+            if (number == 1) return false;
+            if (number == 2) return true;
 
-            if (candidate == 2)
+            for (int i = 2; i <= Math.Ceiling(Math.Sqrt(number)); ++i)
             {
-                return false;
+                if (number % i == 0) return false;
             }
 
             return true;
