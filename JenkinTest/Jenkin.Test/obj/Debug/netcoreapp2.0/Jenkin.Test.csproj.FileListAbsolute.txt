@@ -1,0 +1,16 @@
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\bin\Debug\netcoreapp2.0\Jenkin.Test.deps.json
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\bin\Debug\netcoreapp2.0\Jenkin.Test.dll
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\obj\Debug\netcoreapp2.0\Jenkin.Test.csproj.CoreCompileInputs.cache
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\obj\Debug\netcoreapp2.0\Jenkin.Test.AssemblyInfoInputs.cache
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\obj\Debug\netcoreapp2.0\Jenkin.Test.AssemblyInfo.cs
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\bin\Debug\netcoreapp2.0\Jenkin.Test.runtimeconfig.json
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\bin\Debug\netcoreapp2.0\Jenkin.Test.runtimeconfig.dev.json
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\bin\Debug\netcoreapp2.0\Jenkin.Test.pdb
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\obj\Debug\netcoreapp2.0\Jenkin.Test.dll
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\obj\Debug\netcoreapp2.0\Jenkin.Test.pdb
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\bin\Debug\netcoreapp2.0\JenkinService.dll
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\bin\Debug\netcoreapp2.0\JenkinService.pdb
+D:\Project\UFAB\TestingJenkins\my_project\JenkinTest\Jenkin.Test\obj\Debug\netcoreapp2.0\Jenkin.Test.csprojResolveAssemblyReference.cache
