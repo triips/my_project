@@ -20,5 +20,21 @@ namespace Jenkin.Test
 
             Assert.False(result, "1 should not be prime");
         }
+
+        [Fact]
+        public void ReturnTrueGivenValueOf2()
+        {
+            var result = _primeService.IsPrime(2);
+
+            Assert.True(result, "2 should be prime");
+        }
+
+        [Fact]
+        public void ReturnTrueGivenValueOf3()
+        {
+            var result = _primeService.IsPrime(3);
+
+            Assert.True(result, "3 should be prime");
+        }
     }
 }
