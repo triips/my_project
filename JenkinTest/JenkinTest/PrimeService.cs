@@ -11,6 +11,11 @@ namespace JenkinService
                 return false;
             }
 
+            if (candidate == 2)
+            {
+                return false;
+            }
+
             return true;
         }
     }
