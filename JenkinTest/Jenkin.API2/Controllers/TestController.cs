@@ -22,8 +22,8 @@ namespace Jenkin.API2.Controllers
         public string Get(int number)
         {
             if (_primeService.IsPrime(number))
-                return $"{number} is a prime number - 1 ";
-            return $"{number} is not a prime number - 1 ";
+                return $"{number} is a prime number - 2 ";
+            return $"{number} is not a prime number - 2 ";
         }
     }
 }
